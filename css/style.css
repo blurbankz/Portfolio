@@ -17,7 +17,6 @@
     box-sizing: border-box;
     font-family: 'Prompt', sans-serif;
     text-decoration: none;
-
 }
 
 
@@ -122,11 +121,6 @@ nav ul li a:hover {
     padding: 12px 20px;
     border-radius: 10px;
     color: var(--color-primary);
-
-}
-
-nav ul li a.active {
-    background-color: #ffce31;
 }
 
 .btn-hamburger {
