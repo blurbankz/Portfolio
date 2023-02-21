@@ -189,7 +189,7 @@ nav ul li a:hover {
 
 /* ============================== About ============================== */
 .about {
-    background-image: url("/img/BG-04-01.svg");
+    background-image: url("../img/BG-04-01.svg");
     background-blend-mode: lighten;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -251,7 +251,7 @@ nav ul li a:hover {
 
 /* ============================== Skills ============================== */
 .skills {
-    background-image: url("/img/BG-03-01.svg");
+    background-image: url("../img/BG-03-01.svg");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 10% 0;
